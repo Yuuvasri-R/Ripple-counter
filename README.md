@@ -59,7 +59,7 @@ endmodule
 
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
-<img width="788" height="335" alt="image" src="https://github.com/user-attachments/assets/fdea057a-b7c0-40cf-8f68-00db53c369f2" />
+<img width="1871" height="760" alt="Screenshot 2025-12-15 121251" src="https://github.com/user-attachments/assets/be682933-4aa3-4bf8-a8be-0897f7b358dc" />
 
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
