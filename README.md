@@ -70,19 +70,9 @@ Thus implementing 4 Bit Ripple Counter using Verilog and validating their functi
 
 
 
-...
-
-
 
 
 ...
-
-
-
-
-...
-
-
 
 
 
@@ -93,8 +83,46 @@ Thus implementing 4 Bit Ripple Counter using Verilog and validating their functi
 
 
 
+
 ...
 
 
 
 
+
+
+
+
+...
+
+
+
+
+
+...
+
+
+
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
